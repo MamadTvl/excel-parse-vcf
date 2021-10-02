@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "read-excel-file": "^5.2.9"
+    "express": "^4.17.1",
+    "read-excel-file": "^5.2.9",
+    "socket.io": "^4.2.0"
   }
 }
